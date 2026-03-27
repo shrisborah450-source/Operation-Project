@@ -11,8 +11,6 @@ I created this to give a clear picture of how I think about operations — not j
 
 I am not someone who just executes tasks. I look for patterns, ask why things are breaking, and fix them at the root.
 
-> If you are reading this as a recruiter or hiring manager — this is not a textbook summary. This is how I actually work.
-
 ---
 
 ## 1. Supply Chain and Demand-Supply Management
@@ -46,8 +44,7 @@ At Capslock, ticket volumes were not uniform. Some days were quiet, some had spi
 
 I have seen what happens when reporting is treated as a checkbox. Leadership makes decisions on incomplete data, problems get noticed too late, and teams lose credibility.
 
-At Capslock, I owned the weekly MIS reports for senior leadership. At Kaziranga, the dashboards I built were eventually adopted as the standard format across all university departments. That did not happen by accident — it happened because I focused on making data readable, not just accurate.
-
+At Capslock, I owned the weekly MIS reports for senior leadership. At Kaziranga, the dashboards I built were eventually adopted as the standard format across all university departments. 
 > A dashboard that is accurate but unreadable is not useful. A dashboard that tells a story — with clear highs, lows, and actions — is what leadership actually needs.
 
 ### How I Structure a Weekly MIS Report
@@ -55,7 +52,7 @@ At Capslock, I owned the weekly MIS reports for senior leadership. At Kaziranga,
 | Section | What I Include | Why |
 |---------|---------------|-----|
 | Opening Snapshot | 3 numbers that matter most — one up, one flat, one needs attention | Gets attention immediately, sets the tone |
-| SLA Adherence | Percent on-time, percent breached, top 3 breach reasons | Non-negotiable metric — always first |
+| SLA Adherence | Percent on-time, percent breached, top 3 breach reasons | Non-negotiable metric always first |
 | Quality Metrics | Error rate, rework percent, first-time-right rate | Tracks if speed is coming at cost of accuracy |
 | Escalations and Risks | Open escalations, aged items, upcoming risks | Keeps leadership informed before issues become crises |
 | Actions and Owners | What needs to happen, who owns it, by when | Every report ends with clear next steps |
@@ -107,7 +104,7 @@ Result: Urgent resolution time reduced by 30 percent.
 
 Problem: Documents were sent back for resubmission because different validators had different standards.
 
-Root Cause: The existing SOP had gaps — edge cases were not documented.
+Root Cause: The existing SOP had gaps edge cases were not documented.
 
 Fix: I rewrote the KYC validation SOP with explicit criteria for all 5 document categories and examples of acceptable and rejected submissions.
 
@@ -131,11 +128,11 @@ Result: Cross-team resolution time improved and downstream SLA failures reduced.
 
 ### What I Have Learned
 
-- Data without action is just noise — every report I build ends with clear next steps
-- Speed without accuracy is dangerous — in KYC and compliance, errors have real consequences
-- The best process improvement is the one that sticks — I always train the team on changes, not just document them
-- Cross-functional trust is built by being reliable — I never missed a reporting deadline in either role
-- Operations is a leadership function — the people who do it well shape how the entire business runs
+- Data without action is just noise every report I build ends with clear next steps
+- Speed without accuracy is dangerous in KYC and compliance, errors have real consequences
+- The best process improvement is the one that sticks,I always train the team on changes, not just document them
+- Cross-functional trust is built by being reliable,I never missed a reporting deadline in either role
+- Operations is a leadership function the people who do it well shape how the entire business runs
 
 > The moment I stopped thinking of operations as a support role and started thinking of it as the engine of the business, my work changed. I started asking bigger questions, building better systems, and delivering more measurable outcomes. That shift is what I bring to every team I work with.
 
