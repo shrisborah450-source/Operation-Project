@@ -1,7 +1,3 @@
-# Operation-Project
-End-to-end MIS reporting dashboard built in Excel and Power BI to track SLA adherence, KPI trends, and operational bottlenecks
-# Operations Portfolio — Shristi Salini Borah
-
 **Operations Associate | Fintech & Service Operations | Bengaluru, India**  
 📧 shrisborah450@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/shristi-salini-borah)
 
